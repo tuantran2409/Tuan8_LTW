@@ -1,0 +1,60 @@
+# Standard Visual Studio .gitignore
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][In][32]/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+Log/
+Logs/
+
+# Visual Studio 2015/2017/2019/2022 cache/options directory
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on VFAT chunks
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Node.js
+node_modules/
+
+# SQLite databases (if they are dynamically generated)
+*.db
+*.db-shm
+*.db-wal
+
+# Project-specific exclusions
+[Bb]ookAPI/[Bb]in/
+[Bb]ookAPI/[Oo]bj/
+[Bb]ookWinForms/[Bb]in/
+[Bb]ookWinForms/[Oo]bj/
