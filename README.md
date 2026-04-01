@@ -26,7 +26,7 @@ A full-stack book management solution featuring an ASP.NET Core Web API backend 
 2. Run `dotnet restore`
 3. Run `dotnet run`
 
-The API will be available at `http://localhost:5033` (default configuration).
+The API will be available at `http://localhost:9999` (default configuration).
 
 ### 2. Desktop Client Setup
 1. Open terminal in `BookWinForms/`
